@@ -1,4 +1,4 @@
-document.ID.1;document.ID.2;experiment.ID;processing.time;team.name
+document.ID.1,document.ID.2,experiment.ID,processing.time,team.name
 1,2,1,1956,includetr
 1,3,1,685,includetr
 1,4,1,504,includetr
